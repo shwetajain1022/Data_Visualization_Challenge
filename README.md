@@ -16,5 +16,12 @@ Both pie charts are identical and show the distribution of female versus male mi
 
 #Calculate Quartiles, Find Outliers, and Create a Box Plot
 * Calculated the final tumour volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. Then, calculate the quartiles and IQR, and determine if there are any potential outliers across all four treatment regimens using for loop.
-* Using Matplotlib, generated a box plot that shows the distribution of the final tumour volume for all the mice in each of the 4 treatment group. Highlight any potential outliers in the plot by changing their color and style.
-#
+* Using Matplotlib, generated a box plot that shows the distribution of the final tumour volume for all the mice in each of the 4 treatment group. Highlighted any potential outliers in the plot by changing their color to green.
+
+#Create a Line Plot and a Scatter Plot
+* Selected a mouse that was treated with Capomulin, and generateed a line plot of tumour volume versus time point for that mouse.
+* Generated a scatter plot of tumour volume versus mouse weight for the Capomulin treatment regimen.
+
+#Calculate Correlation and Regression
+* Calculate the correlation coefficient and linear regression model between mouse weight and average tumour volume for the Capomulin treatment.
+* Plot the linear regression model on top of the previous scatter plot.
