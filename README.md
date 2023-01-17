@@ -4,7 +4,7 @@ Summary Statistics contains
 * A row for each drug regimen. These regimen names should be contained in the index column.
 * A column for each of the following statistics: mean, median, variance, standard deviation, and SEM of the tumour volume.
 
-#Create Bar Charts and Pie Charts
+# Create Bar Charts and Pie Charts
 Created Bar Charts and Pie charts based on Matplotlib and Pandas
 Both bar charts are identical and shows the total number of time points for all mice tested for each drug regimen throughout the study.
 * Created the first bar chart with the Pandas DataFrame.plot() method.
