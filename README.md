@@ -1,6 +1,18 @@
-# Data_Visualization_Challenge
-Data_Visualization_Challenge
+### Data_Visualization_Challenge
 #Generate Summary Statistics
 Summary Statistics contains
-*A row for each drug regimen. These regimen names should be contained in the index column.
-*A column for each of the following statistics: mean, median, variance, standard deviation, and SEM of the tumour volume.
+* Total number of unique schools
+
+* Total students
+
+* Total budget
+
+* Average maths score
+
+* Average reading score
+
+* % passing maths (the percentage of students who passed maths)
+
+* % passing reading (the percentage of students who passed reading)
+
+* % overall passing (the percentage of students who passed maths AND reading)
